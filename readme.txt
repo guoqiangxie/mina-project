@@ -1,0 +1,3 @@
+Mina(Multipurpose Infrastructure Networked Applications) 是apache基于java nio设计的一个网络应用框架，可以帮助用户开发高性能和高扩展性的网络应用程序。它提供了一个抽象的、事件驱动的异步api。
+
+http://wenku.baidu.com/link?url=ayjr3mdXhQB5TWUgHwqQvbHCog-Tgcwo2cLTSWIh8pqGbrp7QosM3m3ecMGIgVbeJZxQP5Amaisv49YAkckx4fDsaMac1rEIl3s7n2IF5Wa
